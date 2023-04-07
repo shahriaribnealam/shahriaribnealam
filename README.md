@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/shahriaribnealam/shahriaribnealam@assets/star.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/shahriaribnealam/shahriaribnealam@assets/star.js"></script>
 </head>
 <body>
 ### About Shahriar Ibne Alam
