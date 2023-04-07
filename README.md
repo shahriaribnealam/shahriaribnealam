@@ -15,7 +15,8 @@ Shahriar Ibne Alam is a Bangladeshi Computer Science & Technolgy Engineer, Entre
    <td colspan="2"><center><img src="https://github-profile-trophy.vercel.app/?username=shahriaribnealam" alt="Shahriar Ibne Alam" style="width:100%;"></center></td>
  </tr>
   <tr>
-   <td colspan="2"><center><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shahriaribnealam" alt="Shahriar Ibne Alam" style="width:100%;"></center></td>
+  <td><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriaribnealam" alt="Shahriar Ibne Alam" style="max-width:100%;"></center></td>
+   <td><center><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shahriaribnealam" alt="Shahriar Ibne Alam" style="max-width:100%;"></center></td>
  </tr>
 </table>
 
