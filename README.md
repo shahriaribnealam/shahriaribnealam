@@ -29,11 +29,13 @@ Shahriar Ibne Alam is a Bangladeshi Computer Science & Technolgy Engineer, Entre
 <!--- <tr>
 <td colspan="2"><center><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shahriaribnealam" alt="Shahriar Ibne Alam" style="max-width:100%;"></center></td> 
 </tr> --->
-<tr>
- <td colspan="2" style="text-align: center;"><img src="https://gpvc.arturio.dev/shahriaribnealam"></td>
-</tr>
+ 
 </table>
 
+<!---
+https://metrics.lecoq.io/shahriaribnealam
+https://gpvc.arturio.dev/shahriaribnealam
+--->
 
 <!--
 **shahriaribnealam/shahriaribnealam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
