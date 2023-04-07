@@ -3,7 +3,7 @@ Shahriar Ibne Alam is a Bangladeshi Computer Science & Technolgy Engineer, Entre
 <br>
 <br>
 ### Connect With Shahriar Ibne Alam
-<a href="https://www.facebook.com/ImShahriarIbneAlam"><img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white"></a> &nbsp; <a href="https://www.twitter.com/ShahriarIbnAlam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp; <a href="https://www.instagram.com/ShahriarIbnAlam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp; <a href="https://www.pinterest.com/ShahriarIbneAlam"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a> &nbsp; <a href=""><img src=""></a> &nbsp; <a href=""><img src=""></a> &nbsp; 
+<a href="https://www.facebook.com/ImShahriarIbneAlam"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> &nbsp; <a href="https://www.twitter.com/ShahriarIbnAlam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp; <a href="https://www.instagram.com/ShahriarIbnAlam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp; <a href="https://www.pinterest.com/ShahriarIbneAlam"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a> &nbsp; <a href=""><img src=""></a> &nbsp; <a href=""><img src=""></a> &nbsp; 
 <br>
 <br>
 ### Current GitHub Stats of Shahriar Ibne Alam 
