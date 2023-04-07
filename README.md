@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Shahriar Ibne Alam 👋
+Shahriar Ibne Alam is a Bangladeshi Computer Science & Technolgy Engineer, Entrepreneur, Author and Teacher.
 
 <!--
 **shahriaribnealam/shahriaribnealam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
