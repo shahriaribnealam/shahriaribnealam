@@ -30,7 +30,7 @@ Shahriar Ibne Alam is a Bangladeshi Computer Science & Technolgy Engineer, Entre
 <td colspan="2"><center><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shahriaribnealam" alt="Shahriar Ibne Alam" style="max-width:100%;"></center></td> 
 </tr> --->
 <tr>
- <td colspan="2"><center><img src="https://gpvc.arturio.dev/shahriaribnealam"></center></td>
+ <td colspan="2" style="text-align: center;"><img src="https://gpvc.arturio.dev/shahriaribnealam"></td>
 </tr>
 </table>
 
