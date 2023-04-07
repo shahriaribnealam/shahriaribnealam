@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
 <script src="https://cdn.jsdelivr.net/gh/shahriaribnealam/shahriaribnealam@assets/star.js"></script>
-</head>
-<body>
 ### About Shahriar Ibne Alam
 Shahriar Ibne Alam is a Bangladeshi Computer Science & Technolgy Engineer, Entrepreneur, Author and Teacher.
 <br>
@@ -57,6 +52,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</body>
-</html>
