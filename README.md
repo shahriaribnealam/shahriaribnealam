@@ -1,7 +1,7 @@
-### 👉 About Shahriar Ibne Alam
+### :backhand_index_pointing_right: About Shahriar Ibne Alam
 Shahriar Ibne Alam is a Bangladeshi Computer Science & Technolgy Engineer, Entrepreneur, Author and Teacher.
 
-### Current GitHub Stats of Shahriar Ibne Alam
+### :backhand_index_pointing_right: Current GitHub Stats of Shahriar Ibne Alam
 <img src="https://github-readme-stats.vercel.app/api?username=shahriaribnealam&show_icons=true" alt="Current GitHub Stats of Shahriar Ibne Alam" style="max-width:100%;">
 
 
