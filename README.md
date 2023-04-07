@@ -2,8 +2,10 @@
 Shahriar Ibne Alam is a Bangladeshi Computer Science & Technolgy Engineer, Entrepreneur, Author and Teacher.
 <br>
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahriaribnealam&show_icons=true" alt="Current GitHub Stats of Shahriar Ibne Alam" style="max-width:100%;">
+### Current GitHub Stats of Shahriar Ibne Alam 
+<img src="https://github-readme-stats.vercel.app/api?username=shahriaribnealam&show_icons=true" alt="Shahriar Ibne Alam" style="max-width:100%;">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriaribnealam" alt="Shahriar Ibne Alam" style="max-width:100%;">
 
 <!--
 **shahriaribnealam/shahriaribnealam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
