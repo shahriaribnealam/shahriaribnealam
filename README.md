@@ -1,5 +1,6 @@
 ### About Shahriar Ibne Alam
 Shahriar Ibne Alam is a Bangladeshi Computer Science & Technology Engineer, Entrepreneur, Digital Creator, Author and Teacher.
+<!---
 <br>
 <br>
 ### Connect With Shahriar Ibne Alam
@@ -51,3 +52,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+--->
