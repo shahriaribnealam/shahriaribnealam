@@ -7,11 +7,10 @@ Shahriar Ibne Alam is a Bangladeshi Computer Science & Technology Engineer, Entr
 <br>
 <br>
 ### Current GitHub Stats of Shahriar Ibne Alam 
-<! ---
 <table width="100%" border="0">
-<!--- <tr>
+<tr>
 <td colspan="2"><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriaribnealam" alt="Shahriar Ibne Alam" style="width:100%;"></center></td>
-</tr> --->
+</tr>
  
 <tr>
 <td><center><img src="https://github-readme-stats.vercel.app/api?username=shahriaribnealam&show_icons=true" alt="Shahriar Ibne Alam" style="max-width:100%;"></center></td>
@@ -32,7 +31,6 @@ Shahriar Ibne Alam is a Bangladeshi Computer Science & Technology Engineer, Entr
 </tr> --->
  
 </table>
---->
 <!---
 https://metrics.lecoq.io/shahriaribnealam
 https://gpvc.arturio.dev/shahriaribnealam
