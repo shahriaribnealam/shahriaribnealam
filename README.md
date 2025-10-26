@@ -1,2 +1,2 @@
 ### About Shahriar Ibne Alam
-Shahriar Ibne Alam is a Bangladeshi Computer Science & Technology Engineer, Cyber Security Expert, Entrepreneur, Digital Creator, Author and Teacher.
+Shahriar Ibne Alam is a Bangladeshi Computer Science & Technology Engineer, Entrepreneur, Digital Creator, Author and Teacher.
