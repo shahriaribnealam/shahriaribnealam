@@ -1,7 +1,7 @@
 # Shahriar Ibne Alam
 ## Shahriar Ibne Alam is a Bangladeshi Computer Science & Technology Engineer, IT Specialist & Consultant, Entrepreneur, Digital Creator, Author and Educator.
 
---
+---
 
 Greetings! I'm Shahriar Ibne Alam, residing in this beautiful world. I'm a Computer Science & Technology Engineer. As an IT Specialist & Consultant, I help clients achieve their digital goals with modern technology. I am specialized in Advanced AI & Prompt Engineering, Brand Strategy, Digital Marketing, Web Design & Development, Graphic Design, Search Engine Optimization (SEO), App Development, and Cyber Security.
 
